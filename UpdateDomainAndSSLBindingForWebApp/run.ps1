@@ -47,7 +47,7 @@ Write-Host "PowerShell HTTP trigger function processed a request."
 
 
 
-#---start: MS code recommended ----------
+#---start: Automatize by Dorian Vallecillo Calderon (v-dovall@microsoft.com) ----------
 
 $webapp= Get-AzWebApp -Name $webAppName
 
